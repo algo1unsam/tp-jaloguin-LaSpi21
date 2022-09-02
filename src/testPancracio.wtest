@@ -2,7 +2,7 @@ import chicos.*
 import elementos.*
 import adultos.*
 
-test "La capacidad de susto de pancracio sin disfraces es 8" {
+test "La capacidad de susto de pancracio con la mascara de dracula es 8" {
 	assert.equals(8,pancracio.capacidadSusto())
 }
 
